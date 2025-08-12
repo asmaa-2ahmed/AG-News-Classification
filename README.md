@@ -39,7 +39,7 @@ Built with **Python**, **Scikit-learn**, **XGBoost**, and **TensorFlow**, this p
 project/
 │
 ├── src/
-│   ├── assets/              # Pretrained model(s)
+│   ├── assets/
 │   │   └── logistic_regression.joblib
 │   ├── notebook/
 │   │    └── AG_News_clf.ipynb
@@ -115,46 +115,21 @@ The app will open in your browser at **http://localhost:8501**.
 
 ---
 
-## 🌐 Live Demo
-*(Optional — replace this with your deployment URL)*  
-[![Streamlit Badge](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_DEPLOYMENT_URL)
+## 📎 Appendix: Sample Classifications
+| Category   |  Title                                                       |  Description |
+|------------|---------------------------------------------------------------------|---------------------|
+| 🌍 **World** | Global Summit Addresses Climate Change Crisis | World leaders from 150 nations gathered in Paris today to sign a historic agreement committing to carbon neutrality by 2050. The treaty includes unprecedented funding for developing countries to transition to renewable energy. |
+| ⚽ **Sports** | Argentina Wins FIFA World Cup in Penalty Shootout Thriller | In a dramatic finale, Lionel Messi led Argentina to victory against France 4-2 on penalties after a 3-3 draw in extra time. The match is being hailed as one of the greatest World Cup finals in history. |
+| 💼 **Business** | Tech Giant Apple Unveils Revolutionary AI Chip | Apple's new M4 processor, featuring breakthrough neural engine capabilities, promises 50% faster machine learning performance. Analysts predict this will redefine mobile computing and boost Apple's stock value. |
+| 🔬 **Sci/Tech** | NASA Discovers Earth-Like Planet in Habitable Zone | Astronomers using the James Webb Space Telescope identified Kepler-452b, a planet with liquid water and atmospheric conditions that could support life. This marks the most promising exoplanet discovery to date. |
 
 ---
 
 ## 🤝 Contributing
-1. Fork the repo  
-2. Create your feature branch:  
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your changes:  
-   ```bash
-   git commit -m "Add some amazing feature"
-   ```
-4. Push to the branch:  
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. Open a Pull Request
 
+We welcome contributions!
 ---
 
 ## 📜 License
-Distributed under the MIT License. See `LICENSE` for details.
 
----
-
-## 📧 Contact
-Asmaa Ahmed  
-📩 Email: your.email@example.com  
-🔗 GitHub: [AG News Classification](https://github.com/asmaa-2ahmed/AG-News-Classification)
-
----
-
-## 📎 Appendix: Sample Classifications
-| Category  | Example Headline |
-|-----------|------------------|
-| World     | "UN Announces Global Climate Agreement" |
-| Sports    | "Argentina Wins World Cup in Penalty Shootout" |
-| Business  | "Tesla Stock Surges After Earnings Report" |
-| Sci/Tech  | "NASA Discovers Earth-Like Exoplanet" |
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
