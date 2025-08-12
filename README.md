@@ -126,8 +126,7 @@ The app will open in your browser at **http://localhost:8501**.
 ---
 
 ## 🤝 Contributing
-
-We welcome contributions!
+- We welcome contributions!
 ---
 
 ## 📜 License
