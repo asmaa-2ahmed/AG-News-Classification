@@ -1,6 +1,6 @@
 cat << 'EOF' > README.md
 📰 AG News Classification Project
-https://i.imgur.com/XYZ1234.png [Replace with actual banner image]
+src/assets/image.png [Replace with actual banner image]
 
 🌟 Overview
 A machine learning-powered web application that automatically classifies news articles into 4 categories: World, Sports, Business, and Sci/Tech. Built with Python and Streamlit, this project demonstrates:
